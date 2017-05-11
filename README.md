@@ -1,2 +1,2 @@
-# fishfarm
-smart fish farm
+# 스마트 양어장
+
