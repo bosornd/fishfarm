@@ -6,6 +6,10 @@ from serial import SerialException
 import time
 import pymysql
 from datetime import datetime
+import configparser
+
+
+
 
 port = sys.argv[1]
 vals = [0x02, 0x44, 0x41, 0x54, 0x41, 0x03]
@@ -45,7 +49,11 @@ try:
 	ser.close()
 
 
-	db = pymysql.connect("localhost","root","okhwa1234","sensor_db")
+	reader = configparser.RawConfigParser()
+	reader.read('login.cnf')
+
+
+	db = pymysql.connect(reader.get('client', 'host'),reader.get('client', 'user'),reader.get('client', 'password'),"sensor_db")
 	d = datetime.now()
 	time_sensor = d.strftime('%m-%d-%Y %H:%M')
 	sql = "UPDATE current_log SET do" + id + "=" + do + ", temp" + id + "=" + temp + ", ph" + id + "=" + ph
