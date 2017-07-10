@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/jun/.android/build-cache/d24e30d7aff1373ac77a69d7c83d3cdd39b2fdd3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76ce5b83e6dc918dd5ee980f666503ac2a94294f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jun/.android/build-cache/7a3d71a3ae50c47a789d3adace8d689674140adb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfef46c7848640e7ba33b1b34559beb71613a1de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cbe6e8de28a42d8e89d3229358637ffb6c392688">
+        <dex dex="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9bd73dc3dbf24cfafb6a7834ae793b9cc87cbc73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jun/.android/build-cache/78c7f5e4431f0a6ab5d718a40067dd5b4c305740/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a22e5936fb623aa5b714bd36fee40b272694acc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jun/.android/build-cache/4f7a6ef3dcb0477f3c0abb9c7c36dedd6a0fb837/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5cc07c5a9f2285d4442de7ccd4e7839bc7ed0c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_6b7d07a60f12aeffad202fdc826779b5a750bc0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jun/.android/build-cache/ac132b8f511d5d3f9ade7c52c3b7751446e81352/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e60eb1e89fbbd319c19ce52032bcbbfc9d17bd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_f5b214942cd30e8c1f24187fabfc1efe65ece652/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jun/.android/build-cache/3f9c84628d857e463a856c8e474f9f53b8a297c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b95bc6a721337b87acd26c946564f7de08e429a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f4c06b4c35502efe6846805de614b393c46b06c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jun/.android/build-cache/baae42a55f9736c81cbc24cd789e94dcb68a4a65/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/jun/AndroidStudioProjects/FCMPushExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fae4b9bbf4b388fa7123c417b064e4a7c74a6e48/classes.dex" />
+    </item>
+
+</items>
