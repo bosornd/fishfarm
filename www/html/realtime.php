@@ -22,7 +22,9 @@ else {
 	echo $result[2] . "\n";
 */
 
-	for($i=0; $i<count($result)/2-1; $i++)
+	$number_of_sensor = 10
+	$number_of_data = $number_of_sensor * 3 // each sensor has 3 data(PH, DO, TEMP)
+	for($i=0; $i<$number_of_data; $i++)
 	{
 		echo $result[$i] . " ";
 	}	
